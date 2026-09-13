@@ -16,7 +16,7 @@
           <span>AI 驱动的智慧办公平台</span>
         </div>
         <h1 class="hero-title">
-          <span class="gradient-text">TimiOA</span>
+          <span class="gradient-text">KagiOA</span>
           <br />
           <span class="title-secondary">让工作更高效</span>
         </h1>
@@ -59,7 +59,7 @@
       <div class="login-card">
         <div class="login-header">
           <div class="logo-wrapper">
-            <img src="/logo.png" alt="TimiOA" class="login-logo" />
+            <img src="/logo.png" alt="KagiOA" class="login-logo" />
           </div>
           <h2 class="login-title">欢迎回来</h2>
           <p class="login-subtitle">请登录您的账户以继续</p>
@@ -141,7 +141,7 @@
 
         <div class="login-footer">
           <p>还没有账户？ <a class="register-link">立即注册</a></p>
-          <p class="copyright">© 2025 TimiOA. All Rights Reserved.</p>
+          <p class="copyright">© 2025 KagiOA. All Rights Reserved.</p>
         </div>
       </div>
     </div>
@@ -209,7 +209,7 @@ const handleLogin = async (values: any) => {
   try {
     if (import.meta.env.DEV) {
       console.warn(
-        '%c⚠️ TimiOA Mock Login',
+        '%c⚠️ KagiOA Mock Login',
         'color: #f59e0b; font-size: 14px; font-weight: bold;',
         '\n当前为开发模式，使用模拟登录。生产环境请配置真实 API。'
       );
@@ -221,7 +221,7 @@ const handleLogin = async (values: any) => {
         id: 'dev_1',
         name: values.username || '开发者',
         avatar: '',
-        email: 'dev@timioa.local',
+        email: 'dev@kagioa.local',
         deptName: '开发部',
         position: '开发工程师'
       });

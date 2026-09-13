@@ -46,7 +46,7 @@
 
 <script setup lang="ts">
 import { ref, computed } from 'vue';
-import { TimiStatusTag } from '@gitcoffee/timioa-ui';
+import { TimiStatusTag } from '@gitcoffee/kagioa-ui';
 
 const searchKeyword = ref('');
 const filterStatus = ref('');

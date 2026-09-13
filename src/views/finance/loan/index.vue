@@ -16,7 +16,7 @@
 <script setup lang="ts">
 import { ref } from 'vue';
 import { PlusOutlined } from '@ant-design/icons-vue';
-import { TimiStatusTag } from '@gitcoffee/timioa-ui';
+import { TimiStatusTag } from '@gitcoffee/kagioa-ui';
 const columns = [{ title: '借款单号', dataIndex: 'code' }, { title: '借款事由', dataIndex: 'reason' }, { title: '金额', key: 'amount' }, { title: '申请日期', dataIndex: 'date' }, { title: '状态', key: 'status' }, { title: '操作', key: 'action' }];
 const data = ref([{ id: '1', code: 'JK20250408001', reason: '项目备用金', amount: '5000.00', date: '2025-04-08', status: 'pending' }]);
 const applyLoan = () => console.log('申请借款');

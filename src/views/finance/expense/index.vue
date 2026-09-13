@@ -16,7 +16,7 @@
 <script setup lang="ts">
 import { ref } from 'vue';
 import { PlusOutlined } from '@ant-design/icons-vue';
-import { TimiStatusTag } from '@gitcoffee/timioa-ui';
+import { TimiStatusTag } from '@gitcoffee/kagioa-ui';
 const columns = [{ title: '报销单号', dataIndex: 'code' }, { title: '报销类型', dataIndex: 'type' }, { title: '金额', key: 'amount' }, { title: '申请日期', dataIndex: 'date' }, { title: '状态', key: 'status' }, { title: '操作', key: 'action' }];
 const data = ref([{ id: '1', code: 'BX20250408001', type: '差旅费', amount: '2500.00', date: '2025-04-08', status: 'pending' }, { id: '2', code: 'BX20250407001', type: '办公用品', amount: '350.00', date: '2025-04-07', status: 'completed' }]);
 const applyExpense = () => console.log('申请报销');

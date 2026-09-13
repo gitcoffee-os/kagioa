@@ -202,14 +202,14 @@
 
 GitCoffee Open Source License
 
-TimiOA is licensed under a modified version of the Apache License 2.0, with the following additional conditions:
+KagiOA is licensed under a modified version of the Apache License 2.0, with the following additional conditions:
 
-1. TimiOA may be utilized commercially, including as a backend service for other applications or as an application development platform for enterprises. Should the conditions below be met, a commercial license must be obtained from the producer:
+1. KagiOA may be utilized commercially, including as a backend service for other applications or as an application development platform for enterprises. Should the conditions below be met, a commercial license must be obtained from the producer:
 
-a. Multi-tenant service: Unless explicitly authorized by TimiOA in writing, you may not use the TimiOA source code to operate a multi-tenant environment.
-    - Tenant Definition: Within the context of TimiOA, one tenant corresponds to one workspace. The workspace provides a separated area for each tenant's data and configurations.
+a. Multi-tenant service: Unless explicitly authorized by KagiOA in writing, you may not use the KagiOA source code to operate a multi-tenant environment.
+    - Tenant Definition: Within the context of KagiOA, one tenant corresponds to one workspace. The workspace provides a separated area for each tenant's data and configurations.
 
-b. LOGO, watermark, author, and copyright information: In the process of using TimiOA's frontend, you may not remove or modify the LOGO, watermark, author, or copyright information in the TimiOA console or applications. This restriction is inapplicable to uses of TimiOA that do not involve its frontend.
+b. LOGO, watermark, author, and copyright information: In the process of using KagiOA's frontend, you may not remove or modify the LOGO, watermark, author, or copyright information in the KagiOA console or applications. This restriction is inapplicable to uses of KagiOA that do not involve its frontend.
 
 2. As a contributor, you should agree that:
 

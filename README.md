@@ -1,10 +1,10 @@
 <p align="center">
-  <img alt="logo" src="https://cdn.exmay.com/exmay/exmay-app/static/images/timioa_logo.png" width="150" height="150" style="border">
+  <img alt="logo" src="https://cdn.exmay.com/exmay/exmay-app/static/images/kagioa_logo.png" width="150" height="150" style="border">
 </p>
 
 <div align="center">
   <br />
-  <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">TimiOA 天美OA 企业级数智化高效办公平台 v1.0.0</h1>
+  <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">KagiOA 嘉吉OA 企业级数智化高效办公平台 v1.0.0</h1>
   <h3>✨ 智慧、简约而不简单、实用且易用的OA自动化办公系统平台</h3>
   <p>🤖 AI 驱动 • 💬 IM 赋能 • 🚀 企业级数智化高效办公平台</p>
 </div>
@@ -16,8 +16,8 @@
   <a href="#">
     <img src="https://img.shields.io/badge/IM-Enabled-bd34fe?style=flat-square&logo=wechat&logoColor=white" alt="IM Enabled">
   </a>
-  <a href="https://github.com/gitcoffee-os/timioa/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/gitcoffee-os/timioa.png?labelColor=ffeb3b&color=d81e06" alt="License">
+  <a href="https://github.com/gitcoffee-os/kagioa/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/gitcoffee-os/kagioa.png?labelColor=ffeb3b&color=d81e06" alt="License">
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 
 ## 📖 产品简介
 
-**TimiOA（天美OA）** 是一款面向企业内部的 **AI 驱动 + IM 赋能** 的智慧办公自动化系统。深度融合 **DreamingAI 企业级 AI 助手** 与 **ImSky 天信IM 跨平台即时通讯** 能力，集智能对话、流程审批、即时通讯、人事管理、资产管理、项目管理等功能于一体，为企业打造全方位的 **数智化办公新体验**。
+**KagiOA（嘉吉 OA）** 是一款面向企业内部的 **AI 驱动 + IM 赋能** 的智慧办公自动化系统。深度融合 **DreamingAI 企业级 AI 助手** 与 **ImSky 天信IM 跨平台即时通讯** 能力，集智能对话、流程审批、即时通讯、人事管理、资产管理、项目管理等功能于一体，为企业打造全方位的 **数智化办公新体验**。
 
 ---
 
@@ -33,7 +33,7 @@
 
 ### 🤖 AI 智能助手 - 让办公更智慧
 
-TimiOA 深度集成 **DreamingAI** 企业级 AI 助手能力，为办公场景注入智能动力：
+KagiOA 深度集成 **DreamingAI** 企业级 AI 助手能力，为办公场景注入智能动力：
 
 | 能力 | 描述 |
 |------|------|
@@ -46,7 +46,7 @@ TimiOA 深度集成 **DreamingAI** 企业级 AI 助手能力，为办公场景�
 
 ### 💬 IM 即时通讯 - 让协作更高效
 
-TimiOA 无缝集成 **ImSky 天信IM** 跨平台即时通讯能力，打造企业级沟通协作中心：
+KagiOA 无缝集成 **ImSky 天信IM** 跨平台即时通讯能力，打造企业级沟通协作中心：
 
 | 能力 | 描述 |
 |------|------|
@@ -219,7 +219,7 @@ TimiOA 无缝集成 **ImSky 天信IM** 跨平台即时通讯能力，打造企�
 
 ## 📱 多端支持
 
-TimiOA 支持多种终端访问，满足企业不同场景下的办公需求：
+KagiOA 支持多种终端访问，满足企业不同场景下的办公需求：
 
 | 终端 | 支持状态 | 说明 |
 |------|----------|------|
@@ -262,7 +262,7 @@ TimiOA 支持多种终端访问，满足企业不同场景下的办公需求：
 
 ## ️ 产品路线图
 
-TimiOA 致力于成为开源替代企业微信、飞书、钉钉的新一代企业协作平台。以下是规划中的核心功能：
+KagiOA 致力于成为开源替代企业微信、飞书、钉钉的新一代企业协作平台。以下是规划中的核心功能：
 
 ### 🆕 协同办公（规划中）
 
@@ -508,7 +508,7 @@ TimiOA 致力于成为开源替代企业微信、飞书、钉钉的新一代企�
 
 ## 🔗 生态集成
 
-TimiOA 基于 **GitCoffee 开源生态** 构建，与以下产品深度集成：
+KagiOA 基于 **GitCoffee 开源生态** 构建，与以下产品深度集成：
 
 | 产品 | 描述 | 链接 |
 |------|------|------|
@@ -523,57 +523,195 @@ TimiOA 基于 **GitCoffee 开源生态** 构建，与以下产品深度集成：
 <!--
 ### 推荐独立生态产品（规划中）
 
-以下 OA 功能模块建议独立为生态产品，与 TimiOA 深度集成：
+以下 OA 功能模块建议独立为生态产品，与 KagiOA 深度集成：
 
 | 产品 | 定位 | 功能范围 | 对标产品 |
 |------|------|----------|----------|
-| 🏢 **TimiHR** | 人力资源管理系统 | 员工管理、组织架构、招聘入职、考勤排班、薪酬绩效、培训发展 | 北森、Moka、钉钉智能人事 |
-| ⏰ **TimiAttendance** | 智能考勤管理系统 | 考勤打卡、请假审批、加班调休、排班管理、工时统计、考勤报表 | 考勤宝、喔趣考勤、盖雅工场 |
-| 💰 **TimiFinance** | 企业费控管理系统 | 费用报销、采购付款、借款还款、发票管理、预算控制、财务对接 | 汇联易、每刻报销、分贝通 |
-| 📅 **TimiCalendar** | 企业日历与会议系统 | 日程管理、会议预定、会议室管理、视频会议、智能排期、多时区 | Google Calendar、Calendly、飞书日历 |
-| 📝 **TimiReport** | 工作汇报与绩效系统 | 日报周报月报、汇报模板、绩效评估、目标管理、360度反馈 | 15Five、Lattice、钉钉日志 |
-| 🏠 **TimiMeeting** | 会议室与设备管理系统 | 会议室预定、设备管理、会议服务、空间利用率分析、智能门禁 | 会议室管家、飞书会议室 |
+| 🏢 **KagiHR** | 人力资源管理系统 | 员工管理、组织架构、招聘入职、考勤排班、薪酬绩效、培训发展 | 北森、Moka、钉钉智能人事 |
+| ⏰ **KagiAttendance** | 智能考勤管理系统 | 考勤打卡、请假审批、加班调休、排班管理、工时统计、考勤报表 | 考勤宝、喔趣考勤、盖雅工场 |
+| 💰 **KagiFinance** | 企业费控管理系统 | 费用报销、采购付款、借款还款、发票管理、预算控制、财务对接 | 汇联易、每刻报销、分贝通 |
+| 📅 **KagiCalendar** | 企业日历与会议系统 | 日程管理、会议预定、会议室管理、视频会议、智能排期、多时区 | Google Calendar、Calendly、飞书日历 |
+| 📝 **KagiReport** | 工作汇报与绩效系统 | 日报周报月报、汇报模板、绩效评估、目标管理、360度反馈 | 15Five、Lattice、钉钉日志 |
+| 🏠 **KagiMeeting** | 会议室与设备管理系统 | 会议室预定、设备管理、会议服务、空间利用率分析、智能门禁 | 会议室管家、飞书会议室 |
 -->
 
 ---
 
 ## 💻 代码托管
-- GitHub：[https://github.com/gitcoffee-os/timioa](https://github.com/gitcoffee-os/timioa)
-- Gitee：[https://gitee.com/gitcoffee-os/timioa](https://gitee.com/gitcoffee-os/timioa)
+- GitHub：[https://github.com/gitcoffee-os/kagioa](https://github.com/gitcoffee-os/kagioa)
+- Gitee：[https://gitee.com/gitcoffee-os/kagioa](https://gitee.com/gitcoffee-os/kagioa)
 
 ## 🙌 贡献指南
 
-TimiOA 只有通过开源协作才能蓬勃发展。秉持这一精神，我们欢迎来自社区的各种贡献。如果您有意参与其中，请查阅我们的 [贡献者指南](https://timioa.exmay.com/docs/contributing) 。
+KagiOA 只有通过开源协作才能蓬勃发展。秉持这一精神，我们欢迎来自社区的各种贡献。如果您有意参与其中，请查阅我们的 [贡献者指南](https://kagioa.exmay.com/docs/contributing) 。
 
 ## ⚖️ License
 
-本项目遵循 [GitCoffee Open Source License](https://github.com/gitcoffee-os/timioa/blob/main/LICENSE) 开源协议，该许可证本质上是 [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)，但有一些额外的限制。
+本项目遵循 [GitCoffee Open Source License](https://github.com/gitcoffee-os/kagioa/blob/main/LICENSE) 开源协议，该许可证本质上是 [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)，但有一些额外的限制。
 
 ## 🤝 商务合作
 
-- [合作咨询](https://timioa.exmay.com/docs/partner)
+- [合作咨询](https://kagioa.exmay.com/docs/partner)
 
 ## 👥 加入社区
-TimiOA 天美OA 交流群：
+KagiOA 嘉吉OA 交流群：
 
-<img src="https://cdn.exmay.com/exmay/upload/app/qrcode/gitcoffee/gitcoffee-wechat-qrcode.png" width="230px" title="TimiOA 天美OA 微信群" />
+<img src="https://cdn.exmay.com/exmay/upload/app/qrcode/gitcoffee/gitcoffee-wechat-qrcode.png" width="230px" title="KagiOA 嘉吉OA 微信群" />
 
-(扫码添加微信，备注：TimiOA，邀您加入群聊)
+(扫码添加微信，备注：KagiOA，邀您加入群聊)
 
-- [用户社群](https://timioa.exmay.com/docs/usergroup)
+- [用户社群](https://kagioa.exmay.com/docs/usergroup)
+
+## ⚡ Agido MCP Server 对接
+
+KagiOA 自身完成 OA 核心流程（审批、人事、考勤、财务、项目管理等），通过 **MCP（Model Context Protocol）** 标准协议按需调用 Agido MCP Server，为办公场景注入 AI 本地能力和多引擎编排能力。
+
+### OA 场景何时调用 Agido？
+
+| 场景 | KagiOA 自身 | 调用 Agido MCP Server |
+|------|-----------|----------------------|
+| 流程审批 | ✅ 直接完成 | ❌ 不需要 |
+| 人事管理 | ✅ 直接完成 | ❌ 不需要 |
+| 考勤打卡 | ✅ 直接完成 | ❌ 不需要 |
+| 财务报销 | ✅ 直接完成 | ❌ 不需要 |
+| 项目管理 | ✅ 直接完成 | ❌ 不需要 |
+| AI 审批建议 | ⚠️ 简单规则匹配 | ✅ Agido 多引擎编排智能分析 |
+| 智能文档处理 | ⚠️ 基础模板 | ✅ Agido DAG 多引擎生成专业文档 |
+| 远程运维 | ❌ 无本地能力 | ✅ Shell 执行 / Docker 管理 |
+| 数据智能分析 | ⚠️ 固定报表 | ✅ Agido 多引擎协作生成洞察报告 |
+| 自动化工作流 | ⚠️ 简单触发器 | ✅ Agido DAG 编排复杂自动化流程 |
+| 会议纪要生成 | ⚠️ 单模型转录 | ✅ Agido 多引擎：转录 + 摘要 + 行动项提取 |
+| 知识库智能问答 | ⚠️ 关键词匹配 | ✅ Agido + Aiki RAG 语义检索 |
+
+### MCP 对接架构
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                  KagiOA 嘉吉OA (MCP Client)                  │
+│                                                             │
+│   用户操作 → 意图识别 → 判断是否需要 AI 增强/本地操作        │
+│                                                             │
+│   ┌─────────────────┐  ┌──────────────────────────────┐    │
+│   │ 自身完成（默认）  │  │ 调用 MCP Server（按需）       │    │
+│   │ · 审批 · 人事    │  │ · Agido: 本地能力 + 多引擎   │    │
+│   │ · 考勤 · 财务    │  │ · Aiki: 知识检索             │    │
+│   │ · 项目 · 会议    │  │ · Humemory: 记忆召回         │    │
+│   │ · 日程 · 汇报    │  │ · SioGuard: 安全检测         │    │
+│   └─────────────────┘  └──────────────────────────────┘    │
+└─────────────────────────────────────────────────────────────┘
+                           │ MCP 协议
+                           ▼
+┌─────────────────────────────────────────────────────────────┐
+│              Agido MCP Server                                │
+│                                                             │
+│   暴露的 MCP Tools:                                         │
+│   ┌──────────────┐  ┌──────────────┐  ┌──────────────┐    │
+│   │ 📁 文件操作   │  │ 🐚 Shell 执行 │  │ 🌐 浏览器    │    │
+│   │ 读写/搜索/监控│  │ 命令执行/脚本  │  │ Playwright   │    │
+│   └──────────────┘  └──────────────┘  └──────────────┘    │
+│   ┌──────────────┐  ┌──────────────┐  ┌──────────────┐    │
+│   │ 🐳 Docker    │  │ 🔀 DAG 编排   │  │ 🏥 健康查询  │    │
+│   │ 容器管理     │  │ 多引擎工作流   │  │ 引擎状态     │    │
+│   └──────────────┘  └──────────────┘  └──────────────┘    │
+│                                                             │
+│   底层引擎: OpenClaw · Hermes · Dify · Coze · AutoGen · ... │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### OA + Agido 典型场景
+
+| 场景 | 调用方式 | 效果 |
+|------|---------|------|
+| **AI 审批建议** | `dag_submit` → Dify RAG + Hermes 生成 | 审批内容智能分析，推荐审批意见 |
+| **智能文档生成** | `dag_submit` → 多引擎协作 | 公文/汇报/通知 AI 辅助撰写 |
+| **会议纪要** | `dag_submit` → 转录 + 摘要 + 行动项 | 会议自动转录，AI 生成纪要并推送 |
+| **数据洞察报告** | `dag_submit` → 分析 + 可视化 | 业务数据智能分析，自动生成决策建议 |
+| **自动化工作流** | `dag_submit` + 事件触发 | 审批通过后自动触发下游操作 |
+| **远程运维** | `shell_exec` + `docker_run` | OA 后台运维命令远程执行 |
+| **知识库问答** | `dag_submit` + Aiki RAG | 企业知识库语义检索，精准回答 |
+
+### MCP 对接配置
+
+```yaml
+mcp:
+  servers:
+    agido:
+      enabled: true
+      transport: stdio
+      command: agido-mcp-server
+      args: ["--config", "/path/to/agido-config.yaml"]
+      env:
+        AGIDO_API_KEY: ${AGIDO_API_KEY}
+    aiki:
+      enabled: true
+      transport: stdio
+      command: aiki-mcp-server
+      args: ["--scope", "knowledge"]
+    humemory:
+      enabled: true
+      transport: stdio
+      command: humemory-mcp-server
+      args: ["--scope", "memory"]
+    sioguard:
+      enabled: true
+      transport: stdio
+      command: sioguard-mcp-server
+      args: ["--mode", "check"]
+```
 
 ## 🌍 开源生态
 
-[开源生态](https://timioa.exmay.com/docs/opensource)
+KagiOA 是 GitCoffee AI 生态的企业办公层，深度融合 DreamingAI 与 ImSky，通过 MCP 标准协议按需调用生态能力：
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    KagiOA 嘉吉OA 用户交互层                   │
+│   AI 驱动 + IM 赋能的企业级数智化高效办公平台                 │
+│   审批 · 人事 · 考勤 · 财务 · 项目 · 会议 · 日程            │
+│                                                             │
+│   自身完成 OA 核心流程，按需通过 MCP 调用生态 AI 能力         │
+└──────┬──────────────┬──────────────┬────────────────────────┘
+       │ MCP          │ MCP          │ MCP
+       ▼              ▼              ▼
+┌────────────┐ ┌────────────┐ ┌────────────────┐
+│ Agido      │ │ Aiki       │ │  Humemory      │
+│ 极动       │ │ 知了       │ │  合忆          │
+│ MCP Server │ │ MCP Server │ │  MCP Server    │
+│            │ │            │ │                │
+│ 本地能力   │ │ 知识注入   │ │  跨会话记忆    │
+│ 多引擎编排 │ │ RAG 检索   │ │  情感记忆      │
+│ DAG 工作流 │ │            │ │                │
+└──────┬─────┘ └────────────┘ └────────────────┘
+       │
+       ▼
+┌─────────────────────────────────────────────────────────────┐
+│  SkyGate 天枢 · AI 网关    │  SioGuard 数卫 · AI 安全卫士   │
+│  模型路由 · 故障自愈       │  Prompt 防御 · 数据脱敏       │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### 协同场景
+
+| 场景 | 协同方式 |
+|------|---------|
+| **KagiOA → Agido** | 通过 MCP 调用 Agido MCP Server，获取本地能力（文件/Shell/Docker）或多引擎 DAG 编排 |
+| **KagiOA → Aiki** | 通过 MCP 调用 Aiki MCP Server，获取知识检索和 RAG 注入，增强知识库智能问答 |
+| **KagiOA → Humemory** | 通过 MCP 调用 Humemory MCP Server，获取用户偏好记忆，个性化审批建议 |
+| **KagiOA → SkyGate** | AI 模型调用通过 SkyGate 统一路由，享受故障自愈和成本优化 |
+| **KagiOA → SioGuard** | 审批内容/文档经过 SioGuard 安全护栏，敏感词过滤和数据脱敏 |
+| **KagiOA → DreamingAI** | KagiOA 深度集成 DreamingAI AI 助手能力，AI 对话驱动办公 |
+| **KagiOA → ImSky** | KagiOA 深度集成 ImSky IM 能力，即时通讯赋能协作 |
+
+[开源生态](https://kagioa.exmay.com/docs/opensource)
 
 ---
 
 <div align="center">
 
-**🏢 TimiOA 天美OA** - AI驱动+IM赋能的智慧办公自动化系统
+**🏢 KagiOA 嘉吉OA** - AI驱动+IM赋能的智慧办公自动化系统
 
 智慧、简约而不简单、实用且易用！ 🚀
 
-[🏠 官网](https://timioa.exmay.com) | [📖 文档](https://timioa.exmay.com/docs) | [💬 社区](https://timioa.exmay.com/docs/usergroup) | [🐛 反馈](https://github.com/gitcoffee-os/timioa/issues)
+[🏠 官网](https://kagioa.exmay.com) | [📖 文档](https://kagioa.exmay.com/docs) | [💬 社区](https://kagioa.exmay.com/docs/usergroup) | [🐛 反馈](https://github.com/gitcoffee-os/kagioa/issues)
 
 </div>

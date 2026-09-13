@@ -10,9 +10,9 @@
     >
       <div class="timi-layout-logo">
         <div class="logo-icon">
-          <img src="/logo.png" alt="TimiOA" />
+          <img src="/logo.png" alt="KagiOA" />
         </div>
-        <span v-if="!collapsed" class="logo-text">TimiOA</span>
+        <span v-if="!collapsed" class="logo-text">KagiOA</span>
       </div>
       <div class="menu-container">
         <a-menu

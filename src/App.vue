@@ -6,7 +6,7 @@
 
 <script setup lang="ts">
 import zhCN from 'ant-design-vue/es/locale/zh_CN';
-import { useTheme } from '@gitcoffee/timioa-ui';
+import { useTheme } from '@gitcoffee/kagioa-ui';
 
 const { themeConfig } = useTheme();
 </script>

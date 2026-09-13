@@ -27,7 +27,7 @@
         </div>
       </div>
       <div class="welcome-decoration">
-        <img src="/logo.png" alt="TimiOA" class="deco-image" />
+        <img src="/logo.png" alt="KagiOA" class="deco-image" />
         <div class="deco-circle"></div>
         <div class="deco-dots"></div>
       </div>

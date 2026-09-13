@@ -1,7 +1,7 @@
 {
-  "name": "timioa",
+  "name": "kagioa",
   "version": "1.0.0",
-  "description": "TimiOA 天美OA - AI驱动+IM赋能的智慧办公自动化系统",
+  "description": "KagiOA 嘉吉OA - AI驱动+IM赋能的智慧办公自动化系统",
   "author": "GitCoffee Team",
   "scripts": {
     "dev": "vite",
@@ -24,8 +24,8 @@
     "@gitcoffee/design-ui": "^1.0.0",
     "@gitcoffee/icons": "^1.0.0",
     "@gitcoffee/theme-ui": "^1.0.0",
-    "@gitcoffee/timioa-ui": "^1.0.0",
-    "@gitcoffee/timioa-utils": "^1.0.0",
+    "@gitcoffee/kagioa-ui": "^1.0.0",
+    "@gitcoffee/kagioa-utils": "^1.0.0",
     "ant-design-vue": "^4.2.6",
     "axios": "^1.7.9",
     "dayjs": "^1.11.13",
@@ -50,7 +50,7 @@
     "vue-tsc": "^2.1.10"
   },
   "keywords": [
-    "timioa",
+    "kagioa",
     "oa",
     "office",
     "automation",
@@ -61,11 +61,11 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gitcoffee-os/timioa.git"
+    "url": "https://github.com/gitcoffee-os/kagioa.git"
   },
-  "homepage": "https://github.com/gitcoffee-os/timioa#readme",
+  "homepage": "https://github.com/gitcoffee-os/kagioa#readme",
   "bugs": {
-    "url": "https://github.com/gitcoffee-os/timioa/issues"
+    "url": "https://github.com/gitcoffee-os/kagioa/issues"
   },
   "engines": {
     "node": ">=18.0.0",

@@ -102,7 +102,7 @@ import dayGridPlugin from '@fullcalendar/daygrid';
 import timeGridPlugin from '@fullcalendar/timegrid';
 import interactionPlugin from '@fullcalendar/interaction';
 import { PlusOutlined, EnvironmentOutlined } from '@ant-design/icons-vue';
-import { TimiCard } from '@gitcoffee/timioa-ui';
+import { TimiCard } from '@gitcoffee/kagioa-ui';
 import dayjs from 'dayjs';
 
 const calendarRef = ref();

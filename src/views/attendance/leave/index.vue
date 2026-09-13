@@ -14,7 +14,7 @@
 </template>
 <script setup lang="ts">
 import { ref } from 'vue';
-import { TimiStatusTag } from '@gitcoffee/timioa-ui';
+import { TimiStatusTag } from '@gitcoffee/kagioa-ui';
 const columns = [{ title: '请假类型', dataIndex: 'type' }, { title: '开始时间', dataIndex: 'startTime' }, { title: '结束时间', dataIndex: 'endTime' }, { title: '天数', dataIndex: 'days' }, { title: '状态', key: 'status' }, { title: '操作', key: 'action' }];
 const data = ref([{ id: '1', type: '年假', startTime: '2025-04-10', endTime: '2025-04-12', days: 3, status: 'pending' }]);
 const applyLeave = () => console.log('申请请假');

@@ -16,7 +16,7 @@
 
 import { defineStore } from 'pinia';
 import { ref, computed } from 'vue';
-import type { User } from '@gitcoffee/timioa-utils';
+import type { User } from '@gitcoffee/kagioa-utils';
 
 export const useUserStore = defineStore('user', () => {
   // State
@@ -32,17 +32,17 @@ export const useUserStore = defineStore('user', () => {
   // Actions
   const setToken = (newToken: string) => {
     token.value = newToken;
-    localStorage.setItem('timioa_token', newToken);
+    localStorage.setItem('kagioa_token', newToken);
   };
 
   const setUserInfo = (info: User) => {
     userInfo.value = info;
-    localStorage.setItem('timioa_user_info', JSON.stringify(info));
+    localStorage.setItem('kagioa_user_info', JSON.stringify(info));
   };
 
   const loadFromStorage = () => {
-    const storedToken = localStorage.getItem('timioa_token');
-    const storedUserInfo = localStorage.getItem('timioa_user_info');
+    const storedToken = localStorage.getItem('kagioa_token');
+    const storedUserInfo = localStorage.getItem('kagioa_user_info');
     if (storedToken) {
       token.value = storedToken;
     }
@@ -58,8 +58,8 @@ export const useUserStore = defineStore('user', () => {
   const logout = () => {
     token.value = '';
     userInfo.value = {};
-    localStorage.removeItem('timioa_token');
-    localStorage.removeItem('timioa_user_info');
+    localStorage.removeItem('kagioa_token');
+    localStorage.removeItem('kagioa_user_info');
   };
 
   const setUnreadCount = (count: number) => {

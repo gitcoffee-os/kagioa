@@ -59,8 +59,8 @@ export default defineConfig(({ mode }) => {
             : {
                 vendor: ['vue', 'vue-router', 'pinia', 'ant-design-vue'],
                 i18n: ['vue-i18n'],
-                ui: ['@gitcoffee/timioa-ui'],
-                utils: ['@gitcoffee/timioa-utils'],
+                ui: ['@gitcoffee/kagioa-ui'],
+                utils: ['@gitcoffee/kagioa-utils'],
                 charts: ['echarts', 'vue-echarts'],
                 calendar: ['@fullcalendar/core', '@fullcalendar/vue3', '@fullcalendar/daygrid', '@fullcalendar/timegrid']
               }
@@ -81,7 +81,7 @@ export default defineConfig(({ mode }) => {
         '/api': {
           target: 'http://localhost:8080',
           changeOrigin: true,
-          rewrite: (path) => path.replace(/^\/api/, '/timioa/api')
+          rewrite: (path) => path.replace(/^\/api/, '/kagioa/api')
         }
       }
     }

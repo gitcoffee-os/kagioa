@@ -14,7 +14,7 @@
 </template>
 <script setup lang="ts">
 import { ref } from 'vue';
-import { TimiStatusTag } from '@gitcoffee/timioa-ui';
+import { TimiStatusTag } from '@gitcoffee/kagioa-ui';
 const columns = [{ title: '加班日期', dataIndex: 'date' }, { title: '开始时间', dataIndex: 'startTime' }, { title: '结束时间', dataIndex: 'endTime' }, { title: '时长', dataIndex: 'hours' }, { title: '状态', key: 'status' }, { title: '操作', key: 'action' }];
 const data = ref([{ id: '1', date: '2025-04-08', startTime: '18:00', endTime: '21:00', hours: 3, status: 'pending' }]);
 const applyOvertime = () => console.log('申请加班');

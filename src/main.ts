@@ -21,7 +21,7 @@ import App from './App.vue';
 import router from './router';
 import { createPinia } from 'pinia';
 import Antd from 'ant-design-vue';
-import { permissionDirective, roleDirective } from '@gitcoffee/timioa-utils';
+import { permissionDirective, roleDirective } from '@gitcoffee/kagioa-utils';
 
 const app = createApp(App);
 

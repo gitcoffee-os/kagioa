@@ -26,7 +26,7 @@
 <script setup lang="ts">
 import { ref } from 'vue';
 import dayjs from 'dayjs';
-import { TimiCard } from '@gitcoffee/timioa-ui';
+import { TimiCard } from '@gitcoffee/kagioa-ui';
 const dateRange = ref([dayjs().subtract(30, 'day'), dayjs()]);
 const chartRef = ref<HTMLElement>();
 </script>

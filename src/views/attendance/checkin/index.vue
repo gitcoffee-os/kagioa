@@ -91,7 +91,7 @@
 
 <script setup lang="ts">
 import { ref, computed, onMounted, onUnmounted } from 'vue';
-import { TimiCard } from '@gitcoffee/timioa-ui';
+import { TimiCard } from '@gitcoffee/kagioa-ui';
 import dayjs from 'dayjs';
 
 const currentTime = ref(dayjs().format('HH:mm:ss'));

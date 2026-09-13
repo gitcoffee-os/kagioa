@@ -14,7 +14,7 @@
 </template>
 <script setup lang="ts">
 import { ref } from 'vue';
-import { TimiStatusTag } from '@gitcoffee/timioa-ui';
+import { TimiStatusTag } from '@gitcoffee/kagioa-ui';
 const columns = [{ title: '目的地', dataIndex: 'destination' }, { title: '开始日期', dataIndex: 'startDate' }, { title: '结束日期', dataIndex: 'endDate' }, { title: '天数', dataIndex: 'days' }, { title: '状态', key: 'status' }, { title: '操作', key: 'action' }];
 const data = ref([{ id: '1', destination: '上海', startDate: '2025-04-15', endDate: '2025-04-18', days: 4, status: 'pending' }]);
 const applyBusiness = () => console.log('申请出差');
